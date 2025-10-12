@@ -51,7 +51,7 @@ base64 = "0.22.0"
 serde_urlencoded = "0.7.1"
 indexmap = "2.0.0"
 reqwest = { version = "0.12.2", default-features = false }
-darling = "0.20.10"
+darling = "0.21.3"
 http = "1.0.0"
 async-stream = "0.3.6"
 tokio-util = "0.7.14"
