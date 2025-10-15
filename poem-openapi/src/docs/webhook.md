@@ -70,3 +70,5 @@ trait MyWebhooks {
 let api = OpenApiService::new((), "Demo", "1.0.0")
     .webhooks::<&dyn MyWebhooks>();
 ```
+
+<!-- Auto-update: 2025-10-15T14:52:11.689758 -->
